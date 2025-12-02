@@ -6,6 +6,9 @@
 This project examines shopping patterns and customer behavior using a dataset of 3,900 transactions across various product categories. 
 The objective is to uncover insights related to spending habits, customer segmentation, product popularity, shipping behavior, and subscription preferences to support data-driven business decisions.
 
+
+<img width="1067" height="594" alt="image" src="https://github.com/user-attachments/assets/006d94e5-c50d-4bf7-b4e3-fd135c757ad7" />
+
 --------------------------------------------------------------------------------------
 
 ## 2. Dataset Summary
