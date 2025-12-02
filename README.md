@@ -110,7 +110,7 @@ Conducted structured analysis in PostgreSQL to address key business questions, i
 <img width="1328" height="751" alt="image" src="https://github.com/user-attachments/assets/09801922-4ac5-4cec-aca1-b84480fe6bee" />
 
 
-# 👉 Dashboard Live: <a href="https://app.powerbi.com/groups/me/reports/a5f1a091-46b1-40e1-b426-6f4ff6b1ae2d/42548c50914160737db4?experience=power-bi">Click here to view the Power BI Dashboard</a>
+# 👉 Dashboard Live: <a href="https://app.powerbi.com/reportEmbed?reportId=a5f1a091-46b1-40e1-b426-6f4ff6b1ae2d&autoAuth=true&ctid=ae87949c-2af6-4819-9066-149c2070a4f1" target="_blank">Click here to view the Power BI Dashboard</a>
 
 --------------------------------------------------------
 ## 6. Business Recommendations
